@@ -1,0 +1,1 @@
+Essa integração automatiza a extração de dados do Active Directory, gerando um arquivo .CSV que serve como fonte de dados para o Power BI. O processo garante que as informações estejam sempre atualizadas, permitindo análises em tempo real e facilitando a visualização de dados organizacionais. 🚀
