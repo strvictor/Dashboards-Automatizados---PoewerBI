@@ -36,10 +36,10 @@ C:\Logs
 
 ### 2️⃣ Extração do Log do Active Directory
 - Execute o script script_log_impressao.ps1 no Active Directory.
-- O script salvará automaticamente o arquivo de log na pasta C:\Logs.
+- O script salvará automaticamente o arquivo de log na pasta `C:\Logs`.
 
 ### 3️⃣ Processamento dos Dados
-- Após a geração do log, execute o script Python executavel.py:
+- Após a geração do log, execute o script Python `executavel.py`:
 ```bash
 python executavel.py
 ```
@@ -50,7 +50,7 @@ C:\Logs\LogsImpressoesFormatado.csv
 
 ### 4️⃣ Criar o Dashboard no Power BI
 - Abra o Power BI Desktop.
-- Importe o arquivo LogsImpressoesFormatado.csv como fonte de dados no modelo "Dashboard Impressoes.pbix".
+- Importe o arquivo LogsImpressoesFormatado.csv como fonte de dados no modelo `Dashboard Impressoes.pbix`.
 - Visualize e analise os dados em tempo real.
 
 -> Exemplo:
