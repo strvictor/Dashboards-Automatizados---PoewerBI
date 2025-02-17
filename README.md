@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/2bb95129-dd75-4f88-be39-0b35e11550c4)
+![image](https://github.com/user-attachments/assets/03827121-1f65-40a6-aeb4-b66f8b220c3f)
+
+
 # 📊 Integração de Logs do Active Directory com Power BI
 
 Este projeto automatiza a extração de dados do **Active Directory**, gerando um arquivo **CSV** que serve como fonte de dados para o **Power BI**. Com essa solução, as informações estarão sempre atualizadas, permitindo análises em tempo real e uma visualização clara dos dados organizacionais.
