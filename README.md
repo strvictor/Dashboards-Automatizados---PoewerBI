@@ -36,7 +36,7 @@ C:\Logs
 - O script salvará automaticamente o arquivo de log na pasta C:\Logs.
 
 ### 3️⃣ Processamento dos Dados
-- Após a geração do log, execute o script Python executalve.py:
+- Após a geração do log, execute o script Python executavel.py:
 ```bash
 python executavel.py
 ```
