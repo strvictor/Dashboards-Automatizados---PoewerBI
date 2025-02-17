@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/2bb95129-dd75-4f88-be39-0b35e11550c4)
-![image](https://github.com/user-attachments/assets/03827121-1f65-40a6-aeb4-b66f8b220c3f)
+
 
 
 # 📊 Integração de Logs do Active Directory com Power BI
@@ -51,9 +50,14 @@ C:\Logs\LogsImpressoesFormatado.csv
 
 ### 4️⃣ Criar o Dashboard no Power BI
 - Abra o Power BI Desktop.
-- Importe o arquivo LogsImpressoesFormatado.csv como fonte de dados.
-- Construa dashboards interativos para visualizar e analisar os dados em tempo real.
+- Importe o arquivo LogsImpressoesFormatado.csv como fonte de dados no modelo "Dashboard Impressoes.pbix".
+- Visualize e analise os dados em tempo real.
 
+-> Exemplo:
+¹
+![image](https://github.com/user-attachments/assets/2bb95129-dd75-4f88-be39-0b35e11550c4)
+²
+![image](https://github.com/user-attachments/assets/03827121-1f65-40a6-aeb4-b66f8b220c3f)
 
 ### 📢 Considerações Finais
 Esta solução foi desenvolvida para otimizar o monitoramento do consumo de impressões, facilitando a gestão de recursos de TI. Com dados sempre atualizados, é possível tomar decisões mais estratégicas e reduzir desperdícios.
